@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AMR+TEAM;2WPS;Innovate+%7C+Create+%7C+Dominate" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AMR+DEV;2WPS;Innovate+%7C+Create+%7C+Dominate" alt="Typing Animation" />
   
   <br><br>
   
