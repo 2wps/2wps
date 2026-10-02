@@ -12,7 +12,7 @@
 
 <p>
 <a href="https://github.com/2wps"><img src="https://img.shields.io/badge/GitHub-2WPS-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="mailto:282wps@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:amrdev@bk.ru"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=2wps&color=6C63FF&style=for-the-badge" alt="Profile Views">
@@ -78,7 +78,7 @@ My work focuses on **full-stack development, automation, modern web applications
 <div align="center">
 
 <a href="https://github.com/2wps"><img src="https://img.shields.io/badge/GitHub-2wps-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="mailto:282wps@gmail.com"><img src="https://img.shields.io/badge/Email-282wps%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:amrdev@bk.ru"><img src="https://img.shields.io/badge/Email-amrdev%40bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
