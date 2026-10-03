@@ -1,26 +1,21 @@
 <div align="center">
 
-# AMR DEV
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AMR+DEV;2WPS;Build+%7C+Create+%7C+Innovate" alt="AMR DEV" />
 
-**Full-Stack Developer • Builder • Security & Privacy Enthusiast**
+<br>
 
-I build practical software, experiment with new technologies, and turn ideas into working products.
+<img src="https://raw.githubusercontent.com/2wps/2wps/main/amr-logo.png" width="180" alt="AMR DEV Logo" />
+
+<h2>AMR DEV</h2>
+
+<p><strong>Full-Stack Developer • Tech Builder • Problem Solver</strong></p>
 
 <p>
-  <a href="https://github.com/2wps">
-    <img src="https://img.shields.io/badge/GitHub-2WPS-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:amrdev@bk.ru">
-    <img src="https://img.shields.io/badge/Email-amrdev%40bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://t.me/AMRGRAMPRO">
-    <img src="https://img.shields.io/badge/Telegram-AMRGRAMPRO-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+<a href="https://github.com/2wps"><img src="https://img.shields.io/badge/GitHub-2WPS-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="mailto:amrdev@bk.ru"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/2wps/2wps/main/amr-logo.png" width="150" alt="AMR DEV Logo">
-
-<img src="https://komarev.com/ghpvc/?username=2wps&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=2wps&color=6C63FF&style=for-the-badge" alt="Profile Views">
 
 </div>
 
@@ -28,15 +23,9 @@ I build practical software, experiment with new technologies, and turn ideas int
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on **building, experimenting, and improving software**.
+I build software, experiment with new technologies, and turn ideas into practical projects.
 
-My current interests include:
-
-- 🚀 Full-stack and web application development
-- 🤖 Automation and developer tooling
-- 🔐 Security, privacy, and secure communication systems
-- 📱 Mobile applications and custom experiences
-- 🧪 Turning ideas and prototypes into usable projects
+My work focuses on **full-stack development, automation, modern web applications, and developer tooling**.
 
 > **Build it. Test it. Improve it.**
 
@@ -56,28 +45,6 @@ My current interests include:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Amrgram Pro
-
-A Telegram-based Android project with an accompanying public website and documentation.
-
-**Focus:** customization, privacy features, and an extended messaging experience.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/2wps/amrgram)
-
----
-
-### 🛡️ Zero-Trace P2P
-
-An experimental P2P communication project focused on encrypted communication, WebRTC, and ephemeral data handling.
-
-**Focus:** P2P networking, E2EE concepts, WebRTC, and privacy-oriented architecture.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/2wps/ZeroTrace-P2P)
 
 ---
 
@@ -110,15 +77,8 @@ An experimental P2P communication project focused on encrypted communication, We
 
 <div align="center">
 
-<a href="https://github.com/2wps">
-  <img src="https://img.shields.io/badge/GitHub-2WPS-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="mailto:amrdev@bk.ru">
-  <img src="https://img.shields.io/badge/Email-amrdev%40bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://t.me/AMRGRAMPRO">
-  <img src="https://img.shields.io/badge/Telegram-AMRGRAMPRO-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
+<a href="https://github.com/2wps"><img src="https://img.shields.io/badge/GitHub-2wps-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="mailto:amrdev@bk.ru"><img src="https://img.shields.io/badge/Email-amrdev%40bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
