@@ -67,7 +67,7 @@ My work focuses on **full-stack development, automation, modern web applications
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=2wps&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies">
+<img src="./assets/github-trophies.svg" alt="GitHub Trophies">
 
 </div>
 
